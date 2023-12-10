@@ -1,0 +1,21 @@
+.container {
+  background-color: #f2f2f2; /* Light grey background */
+  padding: 10px 20px; /* Some padding around the content */
+  text-align: center; /* Centering the content */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* A subtle shadow for depth */
+}
+
+/* Styling the anchor tags for navigation */
+a {
+  text-decoration: none; /* Removes underline from links */
+  color: #333; /* Dark grey color for text */
+  margin: 0 10px; /* Margin on left and right for spacing */
+  font-size: 16px; /* Slightly larger font size for readability */
+  font-weight: bold; /* Bold font for emphasis */
+}
+
+/* Styling the active link to differentiate it from others */
+.active {
+  color: #007bff; /* Bright blue color for the active link */
+  border-bottom: 2px solid #007bff; /* Underline effect for the active link */
+}
